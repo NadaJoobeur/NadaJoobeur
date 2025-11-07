@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Nada Joobeur 👋
 
-<!--
-**NadaJoobeur/NadaJoobeur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Software Engineering Student | Full-Stack Developer | AI Enthusiast
 
-Here are some ideas to get you started:
+I'm a third-year Software Engineering student at **ISIMM** passionate about building **scalable, high-performance web applications** with integrated **AI solutions**. I love working on projects from design to deployment, and I'm always exploring new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 What I Do
+- 🔨 **Full-Stack Development**: React, Node.js, Express, Flask
+- 🤖 **AI & Machine Learning**: TensorFlow, Keras, Deep Learning architectures (U-Net, CNNs, RNNs)
+- ☁️ **Cloud & DevOps**: AWS, Docker, Kubernetes, Jenkins, Terraform
+- 📊 **Data Engineering**: Apache Spark, Hadoop, PostgreSQL, MongoDB
+
+### 🌟 Featured Projects
+- 🔄 **CI/CD Pipeline**: Automated deployment with Jenkins & Kubernetes
+- ☁️ **AWS Cloud Infrastructure**: Secure VPC & EKS cluster for scalable applications
+- 🧠 **Brain Lesion Segmentation**: U-Net models for medical image analysis
+
+### 🎓 Certifications
+- AWS Academy Graduate – Cloud Foundations & Operations
+- Fundamentals of Deep Learning
+- Building Transformer-Based NLP Applications
+
+### 📫 Let's Connect
+- 💼 [Portfolio](https://nadajoobeurportfolio.vercel.app/)
+- 💌 nadajbr725@gmail.com
+- 🔗 [LinkedIn](https://linkedin.com/in/nada-joobeur)
+
+---
+
+⚡ *Currently seeking a final year internship to apply and expand my skills in software engineering and AI!*

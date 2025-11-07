@@ -5,15 +5,11 @@
 I'm a third-year Software Engineering student at **ISIMM** passionate about building **scalable, high-performance web applications** with integrated **AI solutions**. I love working on projects from design to deployment, and I'm always exploring new technologies.
 
 ### 💼 What I Do
-- 🔨 **Full-Stack Development**: React, Node.js, Express, Flask
+- 🔨 **Full-Stack Development**: React, Node.js, Express, Flask, Electron.js
+- 🧪 Testing & Quality Assurance: JUnit, Pytest, Unittest, Postman
 - 🤖 **AI & Machine Learning**: TensorFlow, Keras, Deep Learning architectures (U-Net, CNNs, RNNs)
 - ☁️ **Cloud & DevOps**: AWS, Docker, Kubernetes, Jenkins, Terraform
 - 📊 **Data Engineering**: Apache Spark, Hadoop, PostgreSQL, MongoDB
-
-### 🌟 Featured Projects
-- 🔄 **CI/CD Pipeline**: Automated deployment with Jenkins & Kubernetes
-- ☁️ **AWS Cloud Infrastructure**: Secure VPC & EKS cluster for scalable applications
-- 🧠 **Brain Lesion Segmentation**: U-Net models for medical image analysis
 
 ### 🎓 Certifications
 - AWS Academy Graduate – Cloud Foundations & Operations
